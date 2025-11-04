@@ -12,16 +12,15 @@
 body {
     font-family: Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-serif;
     background-color: var(--orange);
+    padding-top: 90px;
 }
 .logo {
     width: 300px;
-    position: absolute;
-    top: 0px;
-    left:30px;
+    margin-left:605px;
 }
 h1 {
     color: var(--white);
-    margin-top: 100px;
+    margin-top: 40px;
     text-align: center;
 } 
 form {
